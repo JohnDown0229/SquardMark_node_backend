@@ -1,4 +1,4 @@
-# Node.js – Backend - Sample
+# SquardMark - Backend
 
 ## Project setup
 ```
