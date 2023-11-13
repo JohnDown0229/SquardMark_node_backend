@@ -1,4 +1,4 @@
-# SquardMark - Backend
+# SquardMart - Backend
 
 ## Project setup
 ```
